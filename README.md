@@ -1,3 +1,3 @@
 # JavaEx
-My personal Java exersice project./n
+My personal Java exersice project.  
 Hello,Github!
