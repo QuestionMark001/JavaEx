@@ -7,21 +7,22 @@ public class Alphabet{
 
 		System.out.println("请输入一个字符：");
 		char word = scan.next().charAt(0);
+		
+		if(word>='a' && word<='z'){
+			System.out.println("您输入的是小写字符");
 
-		if(){
+			if(word>='A' && word<='Z'){
+				System.out.println("您输入的是大写字符");
+
+				if(word>='0' && word<='9'){
+					System.out.println("您输入的是数字字符");
+
+				}else{
+					System.out.println("您输入的是其他字符");
+
+				}
+			}
 		}
-
-
-
-
-
-
-
-
-
-
-
-
 
 		scan.close();
 	}
