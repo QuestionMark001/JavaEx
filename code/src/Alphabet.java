@@ -6,8 +6,11 @@ public class Alphabet{
 		Scanner scan = new Scanner(System.in);
 
 		System.out.println("请输入一个字符：");
+
+		//定义字符为word
 		char word = scan.next().charAt(0);
 		
+		//if条件循环判断，输出结果
 		if(word>='a' && word<='z'){
 			System.out.println("您输入的是小写字符");
 
