@@ -7,7 +7,7 @@ public class Alphabet{
 
 		System.out.println("请输入一个字符：");
 
-		//定义字符为word
+		//定义word为字符变量
 		char word = scan.next().charAt(0);
 		
 		//if条件循环判断，输出结果
