@@ -17,7 +17,7 @@ public class Alphabet{
 			if(word>='A' && word<='Z'){
 				System.out.println("您输入的是大写字符");
 
-				if(word>='0' && word<='1'){
+				if(word>='0' && word<='9'){
 					System.out.println("您输入的是数字字符");
 
 				}else{
