@@ -108,7 +108,7 @@ public class MyDate {
 				System.out.println("输入错误！");
 			}
 		}
-        //关闭对象close
+        //关闭对象in
         in.close();
 		
 		
