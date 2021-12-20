@@ -1,3 +1,6 @@
+/**
+ * 找出100～999之间的整数中各位数字之和为15的所有整数
+ */
 public class Circulate {
     public static void main(String[] args){
         
