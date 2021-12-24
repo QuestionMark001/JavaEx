@@ -9,3 +9,34 @@
   
 ![多个类](多个类.png "多个类")  
   
+###  二、注释（Code Annotation）  
+####  1.单行注释  
+```java
+// 你可以写一行注释
+```  
+####  1.多行注释  
+```java
+/*
+   你可以写多行注释
+   第一行
+   第二行
+*/
+```  
+####  3.Javadoc注释  
+```java
+/**
+ * javadoc注释
+ * 类的注释信息
+ * @version 1.0
+ * @author QuestionMark001
+ * ...
+ */
+```  
+##### (注："javadoc .java文件"命令可根据javadoc注释为Java源文件生成帮助文档)  
+  
+![javadoc](javadoc默认生成的帮助文档(html+css).png "用javadoc生成的html+css类型的帮助文档")  
+  
+
+  
+![Circulate.html](Circulate.html.png "Circulate.html")  
+  
