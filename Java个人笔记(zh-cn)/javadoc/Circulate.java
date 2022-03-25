@@ -1,3 +1,15 @@
+/*
+ * @Author: QuestionMark001
+ * @Date: 2022-02-19 08:03:48
+ * @LastEditors: QuestionMark001
+ * @LastEditTime: 2022-03-24 17:30:29
+ * @FilePath: \LocalProjects\JavaEx\Java个人笔记(zh-cn)\javadoc\Circulate.java
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by QuestionMark001, All Rights Reserved. 
+ */
+package javadoc;
+
 /**
  * 找出100～999之间的整数中各位数字之和为15的所有整数
  */
